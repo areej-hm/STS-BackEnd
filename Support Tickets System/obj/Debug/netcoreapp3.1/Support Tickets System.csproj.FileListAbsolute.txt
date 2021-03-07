@@ -1,0 +1,70 @@
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Support Tickets System.exe
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.AssemblyInfoInputs.cache
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.AssemblyInfo.cs
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.RazorTargetAssemblyInfo.cache
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\staticwebassets\Support Tickets System.StaticWebAssets.Manifest.cache
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\staticwebassets\Support Tickets System.StaticWebAssets.xml
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.csproj.CopyComplete
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Support Tickets System.deps.json
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Support Tickets System.runtimeconfig.json
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Support Tickets System.runtimeconfig.dev.json
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Support Tickets System.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\Support Tickets System.pdb
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.csproj.CoreCompileInputs.cache
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.dll
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.pdb
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.genruntimeconfig.cache
+C:\Users\AREEJ\Source\repos\Support Tickets System\Support Tickets System\obj\Debug\netcoreapp3.1\Support Tickets System.csprojAssemblyReference.cache
